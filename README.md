@@ -1,5 +1,7 @@
 # 🎾 Giu ~ Pong Game
-made with Python ~ 💻 Windows
+made with Python ~ 💻 Windows<br>
+**pip install pygame** (🇧🇷 caso quiser compilar / 🇺🇸 if you want to compile)<br>
+🇧🇷 O .exe pode ser encontrado nos releases / 🇺🇸 The .exe can be found in the releases)
 
 - 🇧🇷 Você jogar sozinho contra a máquina ou contra um amigo.<br>
   🇺🇸 You can play alone against the machine or against a friend.
