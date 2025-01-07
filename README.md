@@ -18,3 +18,5 @@ made with Python ~ 💻 Windows
     
 🇧🇷 O jogo termina com a primeira pessoa a atingir 11 pontos.  
   🇺🇸 The game ends with the first person to reach 11 points.
+
+![giu-pong-game](https://github.com/user-attachments/assets/1b9d288d-2925-42ff-a3d0-fc86444a7015)
