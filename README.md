@@ -1,5 +1,5 @@
 # 🎾 Giu ~ Pong Game
-made with Python
+made with Python ~ 💻 Windows
 
 - 🇧🇷 Você jogar sozinho contra a máquina ou contra um amigo.<br>
   🇺🇸 You can play alone against the machine or against a friend.
